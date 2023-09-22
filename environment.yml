@@ -1,0 +1,4 @@
+channels:
+  - conda-forge
+dependencies:
+  - clang-format=16.0.6
