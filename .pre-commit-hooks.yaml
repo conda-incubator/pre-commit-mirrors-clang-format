@@ -1,8 +1,7 @@
 - id: clang-format-conda
   name: clang-format-conda
+  description: 'This hook runs clang-format.'
   entry: clang-format
   language: conda
-  'types': ['c++']
-  args: []
+  types: ['c++']
   require_serial: true
-  additional_dependencies: []
