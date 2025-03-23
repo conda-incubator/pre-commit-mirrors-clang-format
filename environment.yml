@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - clang-format=19.1.7
+  - clang-format=20.1.1
